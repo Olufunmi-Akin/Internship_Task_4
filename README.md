@@ -3,7 +3,7 @@
 ### Task : Create a Dashboard to Summarize Agent Data (User Operations & Performance Dashboard)
 
 ### Objective 
-This task involves building a dashboard in Looker that summarizes key metrics and attributes related to agents and users. The dashboard should would include relevant filters, user segmentation, and performance indicators. The purpose is to provide a centralized view of agent distribution, stock holding, product sales, and role-based breakdowns.
+This task involves building a dashboard in Looker that summarizes key metrics and attributes related to agents and users. The dashboard would include relevant filters, user segmentation, and performance indicators. The purpose is to provide a centralized view of agent distribution, stock holding, product sales, and role-based breakdowns.
 
 ### Data Sources
 Explore: users_all from the Pro model
